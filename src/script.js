@@ -16,8 +16,6 @@
 
 
 
-
-
   const hori_container = document.getElementById("scroll-horizontally");
 
   function autoScrollHori() {
