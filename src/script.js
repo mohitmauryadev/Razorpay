@@ -10,7 +10,7 @@
     }
   }
 
-  setInterval(autoScroll, 20); // speed in ms (smaller = faster)
+  setInterval(autoScroll, 20); 
 
 
 
