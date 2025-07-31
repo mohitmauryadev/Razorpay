@@ -5,7 +5,6 @@
   "type": "module",
   "homepage": "https://github.com/mohitmauryadev/Razorpay/",
   "scripts": {
-    
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist",
     "dev": "vite",
