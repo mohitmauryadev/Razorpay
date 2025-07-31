@@ -167,6 +167,7 @@ li {
 
 .auto_ver_scroll{
   flex-direction: column;
+  gap: 90px;
 }
 /* .text_container{
   width: 70%;
@@ -187,9 +188,7 @@ li {
   .Payment_gateway_le{
     width: 80%;
   }
-  #scroll-container{
-    height: 70%;
-  }
+ 
 }
 
 @media screen and (max-width:500px){
@@ -197,4 +196,23 @@ li {
   .Payment_gateway_le{
     width: 100%;
   }
+}
+
+@media screen and (max-width:400px){
+
+  .Payment_gateway_le{
+    width: 100%;
+  }
+.auto_ver_scroll{
+  flex-direction: column;
+  gap: 120px;
+}
+
+ .var_img{
+    width: 400px;
+ }
+.scrolled_ver{
+  height: 400px;
+}
+
 }
